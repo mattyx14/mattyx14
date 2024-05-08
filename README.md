@@ -9,11 +9,9 @@
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C"></a>
 &nbsp;<a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396"></a>
 &nbsp;<a href="#"><img alt="PHP" src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php"></a>
-&nbsp;<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 &nbsp;<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 &nbsp;<a href="#"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"></a>
 &nbsp;<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
-&nbsp;<a href="#"><img alt="Andriod" src="https://img.shields.io/badge/-Android-333333?style=flat&logo=android"></a>
 &nbsp;<a href="#"><img alt="Unity" src="https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity"></a>
 
 ### 👉 Databases & Cloud Hosting
@@ -32,6 +30,7 @@
 
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"></a>
 &nbsp;<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"></a>
+&nbsp;<a href="#"><img alt="Andriod" src="https://img.shields.io/badge/-Android-333333?style=flat&logo=android"></a>
 
 <h1 align="center">😉 Mis redes sociales</h1>
 <p align="center">Para obtener más información, consulte o conécteme a través de:</h></p>
